@@ -1,0 +1,6 @@
+
+node_modules/
+reporte-frontend.html
+test-results/
+playwright-report/
+.env
